@@ -35,8 +35,8 @@ pip install PyQt6 qrcode Pillow
 If using Git:
 
 ```sh
-git clone https://github.com/YourUserName/Modern-QR-Generator.git
-cd Modern-QR-Generator
+git clone https://github.com/YourUserName/QR-Generator.git
+cd QR-Generator
 ```
 
 Or download ZIP from GitHub.
@@ -46,7 +46,7 @@ Or download ZIP from GitHub.
 ##  Run the Application
 
 ```sh
-python modern_qr_generator.py
+python qrgenerator.py
 ```
 
 
@@ -61,7 +61,7 @@ If you want a Windows .exe:
 
 ```sh
 pip install pyinstaller
-pyinstaller --noconsole --onefile modern_qr_generator.py
+pyinstaller --noconsole --onefile qrgenerator.py
 ```
 
 Your EXE will appear in the `dist/` folder.
