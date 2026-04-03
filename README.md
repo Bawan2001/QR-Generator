@@ -70,4 +70,4 @@ Your EXE will appear in the `dist/` folder.
 
 ##  License
 
-This project is free to use for personal and commercial projects.
+This project is with MIT License.
